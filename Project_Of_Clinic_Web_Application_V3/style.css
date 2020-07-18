@@ -1,0 +1,21 @@
+body {margin:0;color:#089FAF;font-size:10px}
+.fleft {float:left}
+.fright {float:right}
+.fclear {clear:both}
+.inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+.tab {background-image:url(images/tab.jpg);width:159px;background-repeat:no-repeat;line-height:49px;font-family:Arial, Helvetica, sans-serif;font-size:14px;text-align:center;font-weight:bold;color:#fff}
+.top {font-family:Arial, Helvetica, sans-serif;font-size:14px;text-align:center;font-weight:bold;text-decoration:none;color:#fff}
+.top:hover {font-family:Arial, Helvetica, sans-serif;font-size:14px;text-align:center;font-weight:bold;color:#000}
+.small {font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#089FAF;text-decoration:none}
+.small:hover {font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#089FAF;text-decoration:none}
+.heading_2 {line-height:30px;background-color:#10ADBE;font-family:Arial, Helvetica, sans-serif;font-size:17px;text-align:left;padding-left:10px;border:1px solid #DFDFDF;font-weight:bold;color:#fff}
+.left_link {line-height:22px;background-color:#DFDFDF;font-family:Arial, Helvetica, sans-serif;font-size:12px;text-align:left;padding-left:10px;border:1px solid #DFDFDF;font-weight:normal;color:#000}
+.leftlink {background-color:#DFDFDF;font-family:Arial, Helvetica, sans-serif;font-size:12px;text-decoration:none;color:#000}
+.leftlink:hover {background-color:#DFDFDF;font-size:12px;text-align:left;font-weight:normal;color:#000}
+.heafing {font-family:Arial, Helvetica, sans-serif;font-size:34px;text-align:left;padding-left:10px;font-weight:bold;padding-bottom:10px;color:#10ADBE}
+.text {font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:17px;text-align:left;padding-bottom:15px;padding-left:10px;font-weight:normal;color:#585858}
+.heafing3 {font-family:Arial, Helvetica, sans-serif;font-size:18px;padding-bottom:10px;text-align:left;padding-left:10px;font-weight:normal;color:#0C0C0C}
+.copy_bg {background-color:#089FAF;font-size:10px;font-family:Arial, Helvetica, sans-serif;color:#fff;text-align:center}
+.s_link {background-color:#089FAF;font-size:10px;font-family:Arial, Helvetica, sans-serif;color:#fff;text-decoration:none;padding-left:15px;padding-right:10px;text-align:center}
+.s_link:hover {background-color:#089FAF;font-size:10px;font-family:Arial, Helvetica, sans-serif;color:#fff;text-align:center}
+.white {background-color:#EBE8D9}
